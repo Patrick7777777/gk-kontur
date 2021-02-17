@@ -1,0 +1,16 @@
+.big_Article {
+	grid-area: 3 / 2 / 4 / 3;
+	background: white;
+	opacity: 0.97;
+	margin-top: 6vh;
+	margin-right: 2vh;
+	margin-left: 5vh;
+	margin-bottom: 7vh;
+	border-radius: 4px 4px 4px 4px;
+}
+
+
+.article {
+  padding: 10px;
+  text-align: center;
+}

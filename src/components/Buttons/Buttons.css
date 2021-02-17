@@ -1,0 +1,109 @@
+.mb_no_active {
+    background: url(../../images/buttons/o_kompanii_noact.png);
+    background-repeat: no-repeat;
+    background-size: 19vh;
+    width: 19vh;
+    height: 7vh;
+    margin-left: 15.7vh;
+    margin-top: 16.7vh;
+  }
+
+  .mb_active {
+    background: url(../../images/buttons/o_kompanii_act.png);
+    background-repeat: no-repeat;
+    background-size: 19vh;
+    width: 19vh;
+    height: 7vh;
+    margin-left: 15.7vh;
+    margin-top: 16.7vh;
+  }
+
+  .yb_no_active {
+    background: url(../../images/buttons/services_no_act.png);
+    background-repeat: no-repeat;
+    background-size: 19vh;
+    width: 19vh;
+    height: 7vh;
+    margin-left: 19vh;
+  }
+
+  .yb_active {
+    background: url(../../images/buttons/services_act.png);
+    background-repeat: no-repeat;
+    background-size: 19vh;
+    width: 19vh;
+    height: 7vh;
+    margin-left: 19vh;
+  }
+
+  .sb_no_active {
+    background: url(../../images/buttons/solutions_noact.png);
+    background-repeat: no-repeat;
+    background-size: 19vh;
+    width: 19vh;
+    height: 7vh;
+    margin-left: 20vh;
+  }
+
+  .sb_active {
+    background: url(../../images/buttons/solutions_act.png);
+    background-repeat: no-repeat;
+    background-size: 19vh;
+    width: 19vh;
+    height: 7vh;
+    margin-left: 20vh;
+  }
+
+  .tb_no_active {
+    background: url(../../images/buttons/technologii_noact.png);
+    background-repeat: no-repeat;
+    background-size: 19vh;
+    width: 21vh;
+    height: 7vh;
+    margin-left: 20vh;
+  }
+
+  .tb_active {
+    background: url(../../images/buttons/technologii_act.png);
+    background-repeat: no-repeat;
+    background-size: 19vh;
+    width: 19vh;
+    height: 7vh;
+    margin-left: 20vh;
+  }
+
+  .ob_no_active {
+    background: url(../../images/buttons/objects_noact.png);
+    background-repeat: no-repeat;
+    background-size: 19vh;
+    width: 19vh;
+    height: 7vh;
+    margin-left: 19vh;
+  }
+
+  .ob_active {
+    background: url(../../images/buttons/objects_act.png);
+    background-repeat: no-repeat;
+    background-size: 19vh;
+    width: 19vh;
+    height: 7vh;
+    margin-left: 19vh;
+  }
+
+  .cb_no_active {
+    background: url(../../images/buttons/contacts_no_act.png);
+    background-repeat: no-repeat;
+    background-size: 19vh;
+    width: 19vh;
+    height: 7vh;
+    margin-left: 14.7vh;
+  }
+
+  .cb_active {
+    background: url(../../images/buttons/contacts_act.png);
+    background-repeat: no-repeat;
+    background-size: 19vh;
+    width: 19vh;
+    height: 7vh;
+    margin-left: 14.7vh;
+  }

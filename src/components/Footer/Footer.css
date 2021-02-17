@@ -1,0 +1,17 @@
+.big_Footer {
+	background: url('../../images/footer.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	grid-area: 4 / 1 / 5 / 3;
+
+}
+
+.small_Footer {
+	background: url('../../images/footer.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	grid-area: 4 / 1 / 5 / 3;
+	z-index: -2;
+}

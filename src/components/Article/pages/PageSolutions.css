@@ -1,0 +1,12 @@
+.PageSolutions {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2vh;
+    height: 60vh;
+	color: black;
+	text-align: start;
+    overflow-y: scroll;
+}
+
+.PageSolutions::-webkit-scrollbar {
+	width: 0px;
+}

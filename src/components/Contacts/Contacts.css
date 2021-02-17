@@ -1,0 +1,60 @@
+.big_Contacts {
+		grid-area: 2 / 2 / 3 / 3;
+		justify-self: end;
+}
+
+.small_Contacts {
+	grid-area: 4 / 1 / 5 / 3;
+	justify-self: end;
+}
+
+.big_contacts{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 1.1vh;
+	margin-right: 4vh;
+	margin-top: 2vh;
+	display: grid;
+	grid-template-columns: 1.5fr 1fr 0.8fr;
+	grid-template-areas:
+    "phones email www";
+}
+
+.small_contacts{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 1.7vw;
+	margin-right: 4vw;
+	margin-top: 0.5vw;
+	display: grid;
+	grid-template-columns: 1.7fr 1fr 1fr;
+	grid-template-areas:
+    "phones email www";
+}
+
+.big_phones {
+	list-style-type: none;
+	grid-area: phones;
+	justify-self: start;
+}
+
+.small_phones {
+	list-style-type: none;
+	grid-area: phones;
+	justify-self: end;
+}
+
+.email {
+	justify-self: center;
+	grid-area: email;
+	margin-left: 1.2vh;
+}
+
+.www {
+	justify-self: end;
+	grid-area: www;
+}
+li {
+	color: red;
+}
+li span {
+	color: black;
+}

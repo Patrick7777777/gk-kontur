@@ -1,0 +1,19 @@
+.PageObjects {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2vh;
+    height: 60vh;
+	color: black;
+	text-align: start;
+    overflow-y: scroll;
+    margin-left: 7vw;
+}
+
+
+.PageObjects img{
+    max-width: 20vw;
+}
+
+
+.PageObjects::-webkit-scrollbar {
+	width: 0px;
+}

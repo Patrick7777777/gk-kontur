@@ -1,0 +1,13 @@
+.big_Header {
+	background: url('../../images/header.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	grid-area: 1 / 1 / 3 / 3;
+}
+
+.small_Header {
+	background: url('../../images/header.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	grid-area: 1 / 1 / 3 / 3;
+}

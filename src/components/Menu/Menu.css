@@ -1,0 +1,10 @@
+.big_Menu {
+	grid-area: 3 / 1 / 4 / 2;
+	background: url('../../images/wheel.png');
+	background-size: cover;
+	background-position: right;
+	height: 73vh;
+	width: 35vh;
+	margin-top: 3.6vh;
+	margin-bottom: 7.5vh;
+}
