@@ -6,6 +6,7 @@
 	text-align: start;
     overflow-y: scroll;
     margin-left: 7vw;
+    margin-right: 7vw;
 }
 
 .PageAbout::-webkit-scrollbar {

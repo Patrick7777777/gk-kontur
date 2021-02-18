@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import { Switch, Route } from 'react-router-dom';
 import '../Buttons/Buttons.css';
 import './Menu.css';
@@ -116,7 +115,7 @@ function Menu(props) {
 								BtnTechnologiesState="tb_no_active"
 								BtnObjectsState="ob_no_active"
 								BtnContactsState="cb_active"
-								adaptiveWidth={props.adaptiveWidth}
+								adaptiveWidth={props.adaptiveWidth}n
 							/>
 						);
 					}}
