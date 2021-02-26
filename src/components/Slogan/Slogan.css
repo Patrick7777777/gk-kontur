@@ -1,6 +1,7 @@
 .big_Slogan {
 	grid-area: 1 / 2 / 2 / 3;
 	justify-self: end;
+	/* justify-self: center; */
 }
 
 .small_Slogan {
@@ -10,10 +11,10 @@
 
 
 .big_slogan {
-	font-size: 3vh;
+	font-size: 2.7vh;
 	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 	margin-top: 2vh;
-    margin-right: 4vh;
+    margin-right: 10vh;
 	color: rgba(211, 15, 15, 0.753);
 }
 

@@ -14,18 +14,18 @@
 	margin-right: 4vh;
 	margin-top: 2vh;
 	display: grid;
-	grid-template-columns: 1.5fr 1fr 0.8fr;
+	grid-template-columns: 1fr 1fr 1fr;
 	grid-template-areas:
     "phones email www";
 }
 
 .small_contacts{
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-	font-size: 1.7vw;
+	font-size: 1.2vw;
 	margin-right: 4vw;
 	margin-top: 0.5vw;
 	display: grid;
-	grid-template-columns: 1.7fr 1fr 1fr;
+	grid-template-columns: 1fr 1fr 1fr;
 	grid-template-areas:
     "phones email www";
 }
@@ -43,9 +43,9 @@
 }
 
 .email {
-	justify-self: center;
+	justify-self: end;
 	grid-area: email;
-	margin-left: 1.2vh;
+	/* margin-left: 1.2vh; */
 }
 
 .www {
