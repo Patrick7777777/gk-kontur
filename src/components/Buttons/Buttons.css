@@ -8,6 +8,18 @@
     margin-top: 16.7vh;
   }
 
+
+  .mb_no_active:hover {
+    background: url(../../images/buttons/o_kompanii_onfocus.png);
+    background-repeat: no-repeat;
+    background-size: 19vh;
+    width: 19vh;
+    height: 7vh;
+    margin-left: 15.7vh;
+    margin-top: 16.7vh;
+  }
+
+
   .mb_active {
     background: url(../../images/buttons/o_kompanii_act.png);
     background-repeat: no-repeat;
@@ -27,6 +39,16 @@
     margin-left: 19vh;
   }
 
+  .yb_no_active:hover {
+    background: url(../../images/buttons/services_onfocus.png);
+    background-repeat: no-repeat;
+    background-size: 19vh;
+    width: 19vh;
+    height: 7vh;
+    margin-left: 19vh;
+  }
+
+
   .yb_active {
     background: url(../../images/buttons/services_act.png);
     background-repeat: no-repeat;
@@ -38,6 +60,15 @@
 
   .sb_no_active {
     background: url(../../images/buttons/solutions_noact.png);
+    background-repeat: no-repeat;
+    background-size: 19vh;
+    width: 19vh;
+    height: 7vh;
+    margin-left: 20vh;
+  }
+
+  .sb_no_active:hover {
+    background: url(../../images/buttons/solutions_onfocus.png);
     background-repeat: no-repeat;
     background-size: 19vh;
     width: 19vh;
@@ -63,6 +94,16 @@
     margin-left: 20vh;
   }
 
+
+  .tb_no_active:hover {
+    background: url(../../images/buttons/technologii_onfocus.png);
+    background-repeat: no-repeat;
+    background-size: 19vh;
+    width: 21vh;
+    height: 7vh;
+    margin-left: 20vh;
+  }
+
   .tb_active {
     background: url(../../images/buttons/technologii_act.png);
     background-repeat: no-repeat;
@@ -74,6 +115,15 @@
 
   .ob_no_active {
     background: url(../../images/buttons/objects_noact.png);
+    background-repeat: no-repeat;
+    background-size: 19vh;
+    width: 19vh;
+    height: 7vh;
+    margin-left: 19vh;
+  }
+
+  .ob_no_active:hover {
+    background: url(../../images/buttons/objects_onfocus.png);
     background-repeat: no-repeat;
     background-size: 19vh;
     width: 19vh;
@@ -98,6 +148,16 @@
     height: 7vh;
     margin-left: 14.7vh;
   }
+
+  .cb_no_active:hover {
+    background: url(../../images/buttons/contacts_onfocus.png);
+    background-repeat: no-repeat;
+    background-size: 19vh;
+    width: 19vh;
+    height: 7vh;
+    margin-left: 14.7vh;
+  }
+
 
   .cb_active {
     background: url(../../images/buttons/contacts_act.png);
