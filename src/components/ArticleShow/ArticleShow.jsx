@@ -11,7 +11,7 @@ import PageObjects from '../Article/pages/PageObjects';
 
 function ArticleShow(props) {
     return (
-		<div className="article" >
+		<div className="article">
 			<Switch>
 				<Route exact path={'/'} render={props => <PageHome adaptiveWidth={props.adaptiveWidth}/>}  />
 				<Route path={'/main'} component={PageHome} />

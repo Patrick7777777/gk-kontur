@@ -1,7 +1,7 @@
 import { Switch, Route } from 'react-router-dom';
 import '../Buttons/Buttons.css';
 import './Menu.css';
-import Buttons from '../Buttons/Buttons.jsx';
+import Buttons from '../Buttons/Buttons.jsx';	
 
 function Menu(props) {
 	return (
@@ -19,7 +19,7 @@ function Menu(props) {
 								BtnTechnologiesState="tb_no_active"
 								BtnObjectsState="ob_no_active"
 								BtnContactsState="cb_no_active"
-								adaptiveWidth={props.adaptiveWidth}							
+								adaptiveWidth={props.adaptiveWidth}
 							/>
 						);
 					}}
@@ -115,7 +115,8 @@ function Menu(props) {
 								BtnTechnologiesState="tb_no_active"
 								BtnObjectsState="ob_no_active"
 								BtnContactsState="cb_active"
-								adaptiveWidth={props.adaptiveWidth}n
+								adaptiveWidth={props.adaptiveWidth}
+								n
 							/>
 						);
 					}}

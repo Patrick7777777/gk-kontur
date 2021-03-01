@@ -4,10 +4,10 @@
 	/* justify-self: center; */
 }
 
-.small_Slogan {
+/* .small_Slogan {
 	grid-area: 2 / 1 / 3 / 3;
 	justify-self: start;
-}
+} */
 
 
 .big_slogan {
@@ -18,12 +18,10 @@
 	color: rgba(211, 15, 15, 0.753);
 }
 
-.small_slogan {
+/* .small_slogan {
 	font-size: 1vw;
 	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 	color: rgba(211, 15, 15, 0.753);
 	justify-self: start;
-	/* margin-top: 0.1vh; */
-	/* margin-right: 3vh; */
 	margin-left: 3.5vw;
-}
+} */
